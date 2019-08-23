@@ -7,10 +7,6 @@
 
 
 
-	<!-- REQUIRED : your application must be packed as a .war to deploy on App 
-		Engine Standard -->
-	<packaging>war</packaging>
-
 
 
 
