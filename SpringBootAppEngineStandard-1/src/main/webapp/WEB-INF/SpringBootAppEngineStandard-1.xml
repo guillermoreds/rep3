@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SpringBootAppEngineStandard-1 xmlns="http://SpringBootAppEngineStandard-1.google.com/ns/1.0">
-  <runtime>java8</runtime>
-  <threadsafe>true</threadsafe>
-</SpringBootAppEngineStandard-1>
